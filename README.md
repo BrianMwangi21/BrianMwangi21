@@ -34,10 +34,6 @@ I love to code. I love solving problems. I love creating. I love it all.
 
 ## Stats (because numbers are fun too)
 
-![Kabiru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrianMwangi21&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianMwangi21&layout=compact)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BrianMwangi21&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ---
