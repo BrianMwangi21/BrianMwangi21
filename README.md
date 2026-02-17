@@ -1,16 +1,52 @@
-## Hi there 👋
+# mwangi kabiru
 
-<!--
-**BrianMwangi21/BrianMwangi21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love to code. I love solving problems. I love creating. I love it all.
 
-Here are some ideas to get you started:
+(I use Neovim btw 🤷)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Projects — where my passion keeps burning
+
+**[elimu.dev](https://elimu.dev)** — Your premier education support tool. Empowering both teachers and learners.
+
+**[analitika](https://analitika.vercel.app/)** — Get your game odds and bets analyzed by AI
+
+**[revealreveal](https://revealreveal.vercel.app/)** — Create memorable reveal moments
+
+**[boardsaga](https://boardsaga.vercel.app/)** — Transform your chess games into captivating stories
+
+**[raas](https://github.com/BrianMwangi21/raas)** — Romance as a Service. Your very own open-source wingman!
+
+**[orders-of-peaky](https://github.com/BrianMwangi21/order-of-peaky)** — Get the orderbook details from Binance on your CLI and keep a synchronized local orderbook.
+
+**[drawless](https://drawless.fly.dev/)** — Play a new chess variant where you can insert random pieces to keep it going
+
+**[thoughts.io](https://thoughts-io.vercel.app/)** — If your mind gets clouded and cluttered, sometimes you just want to see the thoughts float away.
+
+**[mwangi.kabiru](https://mwangikabiru.fly.dev/)** — We all need a beautiful portfolio, right? And in HTMX and Templ, right? I mean, look at this minimalist one.
+
+**[anti-charts](https://github.com/BrianMwangi21/anti-charts)** — Get the info for different crypto pairs from binance and perform analysis on it. You can also optionally make trades on Alpaca.
+
+**[anti-discover](https://anti-discover.fly.dev/)** — Sometimes, Discover Weekly gets boring. Get some suggestions that you would never think of!
+
+---
+
+## Stats (because numbers are fun too)
+
+![Kabiru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrianMwangi21&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianMwangi21&layout=compact)
+
+---
+
+## Let's Connect
+
+🌐 **Portfolio:** [mwangikabiru.fly.dev](https://mwangikabiru.fly.dev/)  
+💼 **LinkedIn:** [linkedin.com/in/brian-mwangi](https://www.linkedin.com/in/brian-mwangi/)  
+✉️ **Email:** [mwangikabiru21@gmail.com](mailto:mwangikabiru21@gmail.com)  
+📝 **Substack:** [wordsbykabiru.substack.com](https://wordsbykabiru.substack.com/)
+
+---
+
+*"Life is not about waiting for the storm to pass, but learning to dance in the rain"*
