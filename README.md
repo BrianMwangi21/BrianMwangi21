@@ -10,6 +10,8 @@ I love to code. I love solving problems. I love creating. I love it all.
 
 **[elimu.dev](https://elimu.dev)** — Your premier education support tool. Empowering both teachers and learners.
 
+**[nikokadi](https://nikokadike.vercel.app/)** — Je ? Uko kadi ? 
+
 **[analitika](https://analitika.vercel.app/)** — Get your game odds and bets analyzed by AI
 
 **[revealreveal](https://revealreveal.vercel.app/)** — Create memorable reveal moments
