@@ -10,6 +10,8 @@ I love to code. I love solving problems. I love creating. I love it all.
 
 **[elimu.dev](https://elimu.dev)** — Your premier education support tool. Empowering both teachers and learners.
 
+**[wc2026](https://wc2026bracketgenerator.vercel.app/)** — Get your FIFA World Cup 2026 Bracket ready!
+
 **[realest9](https://realest9.vercel.app/)** — Game Show for Realest 9 Community! 
 
 **[nikokadi](https://nikokadike.vercel.app/)** — Je ? Uko kadi ? 
